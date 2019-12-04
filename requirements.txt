@@ -3,6 +3,6 @@ pandas
 matplotlib 
 seaborn
 sklearn
-tensorflow==1.13.2
+tensorflow
 keras
 xgboost
