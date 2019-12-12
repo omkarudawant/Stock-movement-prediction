@@ -5,3 +5,4 @@ seaborn
 sklearn
 tensorflow
 xgboost
+imbalanced-learn
